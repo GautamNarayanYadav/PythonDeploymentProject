@@ -1,7 +1,7 @@
 from django.db import models
 # SuperUserInformation
-# User: Jose
-# Email: training@pieriandata.com
+# User: GautamYadav123
+# Email:  imgautamyadav@gmail.com
 # Password: testpassword
 
 # Create your models here.
